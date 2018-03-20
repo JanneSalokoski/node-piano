@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/JanneSalokoski/node-piano/issues"
   },
-  "homepage": "https://github.com/JanneSalokoski/node-piano#readme"
+  "homepage": "https://github.com/JanneSalokoski/node-piano#readme",
+  "dependencies": {
+    "readline": "^1.3.0"
+  }
 }
