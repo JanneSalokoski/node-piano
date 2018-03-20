@@ -1,1 +1,1 @@
-console.log("Testi!");
+require("./app/index");
